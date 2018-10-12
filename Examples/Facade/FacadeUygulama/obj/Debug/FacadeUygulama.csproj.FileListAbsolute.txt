@@ -1,0 +1,9 @@
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\FacadeUygulama\FacadeUygulama\bin\Debug\FacadeUygulama.exe.config
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\FacadeUygulama\FacadeUygulama\bin\Debug\FacadeUygulama.exe
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\FacadeUygulama\FacadeUygulama\bin\Debug\FacadeUygulama.pdb
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\FacadeUygulama\FacadeUygulama\obj\Debug\FacadeUygulama.csprojResolveAssemblyReference.cache
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\FacadeUygulama\FacadeUygulama\obj\Debug\FacadeUygulama.Form1.resources
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\FacadeUygulama\FacadeUygulama\obj\Debug\FacadeUygulama.Properties.Resources.resources
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\FacadeUygulama\FacadeUygulama\obj\Debug\FacadeUygulama.csproj.GenerateResource.Cache
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\FacadeUygulama\FacadeUygulama\obj\Debug\FacadeUygulama.exe
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\FacadeUygulama\FacadeUygulama\obj\Debug\FacadeUygulama.pdb

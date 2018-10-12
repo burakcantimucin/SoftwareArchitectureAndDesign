@@ -1,0 +1,9 @@
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\Odev3\Odev3\bin\Debug\Odev3.exe.config
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\Odev3\Odev3\bin\Debug\Odev3.exe
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\Odev3\Odev3\bin\Debug\Odev3.pdb
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\Odev3\Odev3\obj\Debug\Odev3.csprojResolveAssemblyReference.cache
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\Odev3\Odev3\obj\Debug\Odev3.Form1.resources
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\Odev3\Odev3\obj\Debug\Odev3.Properties.Resources.resources
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\Odev3\Odev3\obj\Debug\Odev3.csproj.GenerateResource.Cache
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\Odev3\Odev3\obj\Debug\Odev3.exe
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\Odev3\Odev3\obj\Debug\Odev3.pdb

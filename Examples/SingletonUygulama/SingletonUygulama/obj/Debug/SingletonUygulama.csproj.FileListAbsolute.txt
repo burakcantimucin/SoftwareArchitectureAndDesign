@@ -1,0 +1,9 @@
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\SingletonUygulama\SingletonUygulama\bin\Debug\SingletonUygulama.exe.config
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\SingletonUygulama\SingletonUygulama\bin\Debug\SingletonUygulama.exe
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\SingletonUygulama\SingletonUygulama\bin\Debug\SingletonUygulama.pdb
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\SingletonUygulama\SingletonUygulama\obj\Debug\SingletonUygulama.csprojResolveAssemblyReference.cache
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\SingletonUygulama\SingletonUygulama\obj\Debug\SingletonUygulama.Form1.resources
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\SingletonUygulama\SingletonUygulama\obj\Debug\SingletonUygulama.Properties.Resources.resources
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\SingletonUygulama\SingletonUygulama\obj\Debug\SingletonUygulama.csproj.GenerateResource.Cache
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\SingletonUygulama\SingletonUygulama\obj\Debug\SingletonUygulama.exe
+C:\Users\Burakcan\Documents\Visual Studio 2015\Projects\Yazılım Mimarisi ve Tasarımı\SingletonUygulama\SingletonUygulama\obj\Debug\SingletonUygulama.pdb
